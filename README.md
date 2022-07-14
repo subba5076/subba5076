@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subba5076
-- 👀 I’m interested in LEARNING GUIS,WEBs , APPS, FRONT END DEVELOPMENT and much more...
+- 👀 I’m interested in programing and learning new programing languages
 - 🌱 I’m currently learning B.Tech Information Science
 - 💞️ I’m looking to collaborate on as mentioned above
 - 📫  reach me? [INSTAGRAM @SUBRAHMANYANAYAK.5076](https://www.instagram.com/subrahmanyanayak.5076/): okay bye.
