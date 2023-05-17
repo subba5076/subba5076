@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subba5076
-- 👀 I’m interested in programing and learning new programing languages
+- 👀 I’m a passionate programer & quick learner
 - 🌱 I’m currently learning B.E Information Science
 - 💞️ I’m looking to collaborate on as mentioned above
 - 📫  reach me? [INSTAGRAM @SUBRAHMANYA](https://www.instagram.com/trackjum/):)
