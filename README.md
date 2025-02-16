@@ -2,8 +2,8 @@
 - 👀 passionate programer & quick learner
 - 🌱 currently enrolled at SRH Berlin in Masters-Big Data and Artificial Intelligence
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subba5076&theme=github_dark">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subba5076&show_icons=true&include_all_commits=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!---
 subba5076/subba5076 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
