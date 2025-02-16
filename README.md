@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @subba5076
-- 👀 I’m a passionate programer & quick learner
+- 👀 passionate programer & quick learner
 - 🌱 currently enrolled at SRH Berlin in Masters-Big Data and Artificial Intelligence
-- 💞️ I’m looking to collaborate on as mentioned above
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=subba5076&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!---
