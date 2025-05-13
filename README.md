@@ -3,7 +3,7 @@
 🎓 Master's student in **Big Data & Artificial Intelligence** at SRH Berlin  
 👨‍💻 Passionate about solving real-world problems using **Machine Learning, Deep Learning, and Data Engineering**  
 🌍 Currently based in **Berlin, Germany**  
-📬 Reach me at: subrahmanya.nayak66@gmail.com | +49 15510822620
+📬 Reach me at: subrahmanya.nayak66@gmail.com
 
 ---
 
@@ -56,7 +56,7 @@ I believe in building things that make life easier. Open to learning, collaborat
 
 - [LinkedIn](https://linkedin.com/in/subrahmanyanayak)
 - [GitHub](https://github.com/subba5076)
-- Email: subrahmanya.nayak66@gmail.com
+
 
 ---
 
