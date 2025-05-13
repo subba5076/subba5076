@@ -33,10 +33,10 @@ I believe in building things that make life easier. Open to learning, collaborat
 
 | Project | Description |
 |--------|-------------|
-| [👁️ Cataract Detection](https://github.com/subba5076/Cataract_Detection_) | Deep learning models to detect cataracts from fundus and eye images |
 | [📊 AQI Monitoring](https://github.com/subba5076/AQI) | Live AQI dashboard with ML prediction using sensor data |
-| [🧘 MAD Yoga App](https://github.com/subba5076/Yoga_app) | Mobile app with audio-visual yoga guidance and premium access plans |
 | [🚗 CAN Intrusion Detection](https://github.com/subba5076/CAN-Intrusion-Detection) | LSTM-based deep learning model to detect anomalies in CAN bus data for automotive cybersecurity |
+| [👁️ Cataract Detection](https://github.com/subba5076/Cataract_Detection_) | Deep learning models to detect cataracts from fundus and eye images |
+| [🧘 MAD Yoga App](https://github.com/subba5076/Yoga_app) | Mobile app with audio-visual yoga guidance and premium access plans |
 | [📝 React Text Utils](https://github.com/subba5076/TextUtils-React ) | React web app for text transformation (case change, word/char count, readability) |
 | [📰 React News App](https://github.com/subba5076/NewsMonkey-React) | News portal built using React and News API with categorized, live-fetching news cards |
 | [🎮 Object Motion Control System](https://github.com/subba5076/ComputerVision_and_control) | Triggers PC actions using object movement, hand gestures, or color |
