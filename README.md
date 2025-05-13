@@ -1,3 +1,5 @@
+
+ ![Image Alt](https://github.com/subba5076/subba5076/blob/2782bc3996ed62ece97abaa8cadad9747189a5bc/May%2013%2C%202025%2C%2004_51_42%20PM.png).
 # 👋 Hi, I'm Subrahmanya Rajesh Nayak
 
 🎓 Master's student in **Big Data & Artificial Intelligence** at SRH Berlin  
