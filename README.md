@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-I'm an aspiring AI/ML Engineer with strong foundations in Python, deep learning, computer vision, and big data tools like Apache Spark and Kafka. I'm currently looking for **Working Student / Internship roles** in **AI, Data Science, or Big Data** fields.
+I'm an aspiring AI/ML Engineer with strong foundations in Python, deep learning, computer vision. I'm currently looking for **Working Student / Internship roles** in **AI, Data Science, or Big Data** fields.
 
 I believe in building things that make life easier. Open to learning, collaborating, and contributing to impactful projects!
 
